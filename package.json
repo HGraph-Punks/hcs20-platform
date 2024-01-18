@@ -1,0 +1,13 @@
+{
+  "name": "hcs20-platform",
+  "version": "0.0.1",
+  "description": "Repo for HCS-20 open source indexer, validation logic, and more...",
+  "keywords": [
+    "hcs-20"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
