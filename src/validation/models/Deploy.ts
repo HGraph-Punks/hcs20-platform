@@ -13,4 +13,6 @@ export default BaseMessage.extend({
     if(schema.lim > 0) {
         return schema.lim <= schema.max
     }
+
+    return true
 });
